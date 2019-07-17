@@ -11,3 +11,11 @@ A curated list of awesome AutoML frameworks.
 * [TPOT - Data Science Assistant](https://github.com/EpistasisLab/tpot) - A Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming. http://epistasislab.github.io/tpot/
 
 #### Deep learning
+
+* [Auto-Keras](https://github.com/keras-team/autokeras) - Accessible AutoML for deep learning. http://autokeras.com/
+
+### R
+
+#### Machine Learning
+
+#### Deep learning
