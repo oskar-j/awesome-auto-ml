@@ -12,7 +12,7 @@ A curated list of awesome AutoML frameworks.
 
 * [Featuretools](https://github.com/Featuretools/featuretools) - An open source python framework for automated feature engineering https://www.featuretools.com
 
-#### Deep learning
+#### Deep learninghttps://github.com/jcrodriguez1989/autokeras
 
 * [Auto-Keras](https://github.com/keras-team/autokeras) - Accessible AutoML for deep learning. http://autokeras.com/
 
@@ -21,3 +21,5 @@ A curated list of awesome AutoML frameworks.
 #### Machine Learning
 
 #### Deep learning
+
+* [R interface to Auto-Keras](https://github.com/jcrodriguez1989/autokeras) - Package: R interface to Auto-Keras. http://autokeras.com/
