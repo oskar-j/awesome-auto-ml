@@ -23,3 +23,9 @@ A curated list of awesome AutoML frameworks.
 #### Deep learning
 
 * [R interface to Auto-Keras](https://github.com/jcrodriguez1989/autokeras) - Package: R interface to Auto-Keras. http://autokeras.com/
+
+### Java
+
+#### Machine Learning
+
+* [Glaucus](https://github.com/ccnt-glaucus/glaucus) - A general data-flow-based machine learning suit combining auto machine learning and multiple simplified machine learning algorithm for "unprofessional" data scenitists
