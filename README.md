@@ -14,9 +14,11 @@ A curated list of awesome AutoML frameworks.
 
 * [Auto-sklearn](https://github.com/automl/auto-sklearn) - Automated Machine Learning with scikit-learn<sup>1</sup> https://automl.github.io/auto-sklearn
 
-#### Deep learninghttps://github.com/jcrodriguez1989/autokeras
+#### Deep learning
 
 * [Auto-Keras](https://github.com/keras-team/autokeras) - Accessible AutoML for deep learning. http://autokeras.com/
+
+* [NNI](https://github.com/microsoft/nni) - An open source AutoML toolkit for neural architecture search and hyper-parameter tuning. https://nni.readthedocs.io/en/latest/
 
 ### R
 
