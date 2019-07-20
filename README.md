@@ -12,6 +12,8 @@ A curated list of awesome AutoML frameworks.
 
 * [Featuretools](https://github.com/Featuretools/featuretools) - An open source python framework for automated feature engineering https://www.featuretools.com
 
+* [Auto-sklearn](https://github.com/automl/auto-sklearn) - Automated Machine Learning with scikit-learn<sup>1</sup> https://automl.github.io/auto-sklearn
+
 #### Deep learninghttps://github.com/jcrodriguez1989/autokeras
 
 * [Auto-Keras](https://github.com/keras-team/autokeras) - Accessible AutoML for deep learning. http://autokeras.com/
@@ -29,3 +31,5 @@ A curated list of awesome AutoML frameworks.
 #### Machine Learning
 
 * [Glaucus](https://github.com/ccnt-glaucus/glaucus) - A general data-flow-based machine learning suit combining auto machine learning and multiple simplified machine learning algorithm for "unprofessional" data scenitists
+
+<sup>1</sup>*Warning: auto-sklearn seems to be unstable at the moment - Travis build is failing and lot of unresolved issues (>100)*
