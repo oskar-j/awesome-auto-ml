@@ -20,6 +20,8 @@ A curated list of awesome AutoML frameworks.
 
 * [NNI](https://github.com/microsoft/nni) - An open source AutoML toolkit for neural architecture search and hyper-parameter tuning. https://nni.readthedocs.io/en/latest/
 
+* [AdaNet](https://github.com/tensorflow/adanet) - Fast and flexible AutoML with learning guarantees. https://adanet.readthedocs.io
+
 ### R
 
 #### Machine Learning
