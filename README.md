@@ -10,9 +10,11 @@ A curated list of awesome AutoML frameworks.
 
 * [TPOT - Data Science Assistant](https://github.com/EpistasisLab/tpot) - A Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming. http://epistasislab.github.io/tpot/
 
-* [Featuretools](https://github.com/Featuretools/featuretools) - An open source python framework for automated feature engineering https://www.featuretools.com
+* [Featuretools](https://github.com/Featuretools/featuretools) - An open source python framework for automated feature engineering. https://www.featuretools.com
 
-* [Auto-sklearn](https://github.com/automl/auto-sklearn) - Automated Machine Learning with scikit-learn<sup>1</sup> https://automl.github.io/auto-sklearn
+* [Auto-sklearn](https://github.com/automl/auto-sklearn) - Automated Machine Learning with scikit-learn<sup>1</sup>. https://automl.github.io/auto-sklearn
+
+* [Ludwig](https://github.com/uber/ludwig) - Ludwig is a toolbox built on top of TensorFlow that allows to train and test deep learning models without the need to write code. http://ludwig.ai
 
 #### Deep learning
 
