@@ -14,8 +14,6 @@ A curated list of awesome AutoML frameworks.
 
 * [Auto-sklearn](https://github.com/automl/auto-sklearn) - Automated Machine Learning with scikit-learn<sup>1</sup>. https://automl.github.io/auto-sklearn
 
-* [Ludwig](https://github.com/uber/ludwig) - Ludwig is a toolbox built on top of TensorFlow that allows to train and test deep learning models without the need to write code. http://ludwig.ai
-
 #### Deep learning
 
 * [Auto-Keras](https://github.com/keras-team/autokeras) - Accessible AutoML for deep learning. http://autokeras.com/
@@ -23,6 +21,8 @@ A curated list of awesome AutoML frameworks.
 * [NNI](https://github.com/microsoft/nni) - An open source AutoML toolkit for neural architecture search and hyper-parameter tuning. https://nni.readthedocs.io/en/latest/
 
 * [AdaNet](https://github.com/tensorflow/adanet) - Fast and flexible AutoML with learning guarantees. https://adanet.readthedocs.io
+
+* [Ludwig](https://github.com/uber/ludwig) - Ludwig is a toolbox built on top of TensorFlow that allows to train and test deep learning models without the need to write code. http://ludwig.ai
 
 ### R
 
