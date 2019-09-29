@@ -32,6 +32,12 @@ A curated list of awesome AutoML frameworks.
 
 * [R interface to Auto-Keras](https://github.com/jcrodriguez1989/autokeras) - Package: R interface to Auto-Keras. http://autokeras.com/
 
+### Scala
+
+#### Machine Learning
+
+* [TransmogrifAI](https://github.com/salesforce/TransmogrifAI) - is an AutoML library for building modular, reusable, strongly typed machine learning workflows on Apache Spark with minimal hand-tuning. https://transmogrif.ai
+
 ### Java
 
 #### Machine Learning
