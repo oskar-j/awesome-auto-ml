@@ -49,4 +49,10 @@ Provide an input CSV and a target field to predict, generate a model + code to r
 
 * [Glaucus](https://github.com/ccnt-glaucus/glaucus) - A general data-flow-based machine learning suit combining auto machine learning and multiple simplified machine learning algorithm for "unprofessional" data scenitists
 
+## Supplementary tools
+
+### Python
+
+* [PocketFlow](https://github.com/Tencent/PocketFlow) - An Automatic Model Compression (AutoMC) framework for developing smaller and faster AI applications. https://pocketflow.github.io
+
 <sup>1</sup>*Warning: auto-sklearn seems to be unstable at the moment - Travis build is failing and lot of unresolved issues (>100)*
