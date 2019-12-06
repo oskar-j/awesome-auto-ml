@@ -55,4 +55,6 @@ Provide an input CSV and a target field to predict, generate a model + code to r
 
 * [PocketFlow](https://github.com/Tencent/PocketFlow) - An Automatic Model Compression (AutoMC) framework for developing smaller and faster AI applications. https://pocketflow.github.io
 
+* [Ray](https://github.com/ray-project/ray) - A fast and simple framework for building and running distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperparameter tuning library. https://ray.readthedocs.io/en/latest/
+
 <sup>1</sup>*Warning: auto-sklearn seems to be unstable at the moment - Travis build is failing and lot of unresolved issues (>100)*
