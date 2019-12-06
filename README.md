@@ -26,8 +26,9 @@ A curated list of awesome AutoML frameworks.
 
 #### Hybrid solutions
 
-* [automl-gs](https://github.com/minimaxir/automl-gs) - 
-Provide an input CSV and a target field to predict, generate a model + code to run it. https://github.com/minimaxir/automl-gs
+* [automl-gs](https://github.com/minimaxir/automl-gs) - Provide an input CSV and a target field to predict, generate a model + code to run it. https://github.com/minimaxir/automl-gs
+
+* [MLBox](https://github.com/AxeldeRomblay/MLBox) - MLBox is a powerful Automated Machine Learning python library. https://mlbox.readthedocs.io/en/latest/
 
 ### R
 
