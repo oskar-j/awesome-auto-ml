@@ -24,6 +24,11 @@ A curated list of awesome AutoML frameworks.
 
 * [Ludwig](https://github.com/uber/ludwig) - Ludwig is a toolbox built on top of TensorFlow that allows to train and test deep learning models without the need to write code. http://ludwig.ai
 
+#### Hybrid solutions
+
+* [automl-gs](https://github.com/minimaxir/automl-gs) - 
+Provide an input CSV and a target field to predict, generate a model + code to run it. https://github.com/minimaxir/automl-gs
+
 ### R
 
 #### Machine Learning
