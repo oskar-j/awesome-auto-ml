@@ -52,6 +52,8 @@ A curated list of awesome AutoML frameworks.
 
 ## Supplementary tools
 
+* [Fione: Fess AutoML](https://github.com/codelibs/fione) -  AutoML extension for Fess.
+
 ### Python
 
 * [PocketFlow](https://github.com/Tencent/PocketFlow) - An Automatic Model Compression (AutoMC) framework for developing smaller and faster AI applications. https://pocketflow.github.io
