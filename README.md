@@ -52,6 +52,8 @@ A curated list of awesome AutoML frameworks.
 
 ## Supplementary tools
 
+### Java
+
 * [Fione: Fess AutoML](https://github.com/codelibs/fione) -  AutoML extension for Fess.
 
 ### Python
