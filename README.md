@@ -16,6 +16,8 @@ A curated list of awesome AutoML frameworks.
 
 * [Lightwood](https://github.com/mindsdb/lightwood) - Lightwood is Legos for Machine Learning.
 
+* [MindsDB Native](https://github.com/mindsdb/mindsdb) - Machine Learning in one line of code. http://mindsdb.com
+
 #### Deep learning
 
 * [Auto-Keras](https://github.com/keras-team/autokeras) - Accessible AutoML for deep learning. http://autokeras.com/
