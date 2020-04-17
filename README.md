@@ -18,6 +18,8 @@ A curated list of awesome AutoML frameworks.
 
 * [MindsDB Native](https://github.com/mindsdb/mindsdb) - Machine Learning in one line of code. http://mindsdb.com
 
+* [mljar-supervised](https://github.com/mljar/mljar-supervised) - Automated Machine Learning for Supervised Tasks: Binary Classification, MultiClass Classification and Regression
+
 #### Deep learning
 
 * [Auto-Keras](https://github.com/keras-team/autokeras) - Accessible AutoML for deep learning. http://autokeras.com/
