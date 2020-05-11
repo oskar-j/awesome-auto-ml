@@ -70,4 +70,6 @@ A curated list of awesome AutoML frameworks.
 
 * [Ray](https://github.com/ray-project/ray) - A fast and simple framework for building and running distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperparameter tuning library. https://ray.readthedocs.io/en/latest/
 
+* [SMAC3](https://github.com/automl/SMAC3) - Sequential Model-based Algorithm Configuration. https://www.automl.org/automated-algorithm-design/algorithm-configuration/smac/
+
 <sup>1</sup>*Warning: auto-sklearn seems to be unstable at the moment - Travis build is failing and lot of unresolved issues (>100)*
