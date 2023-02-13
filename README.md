@@ -38,6 +38,8 @@ A curated list of awesome AutoML frameworks.
 
 * [MLBox](https://github.com/AxeldeRomblay/MLBox) - MLBox is a powerful Automated Machine Learning python library. https://mlbox.readthedocs.io/en/latest/
 
+* [mindsdb](https://github.com/mindsdb/mindsdb) - In-Database Machine Learning. MindsDB automates and abstracts machine learning models through virtual AI Tables.
+
 ### R
 
 #### Machine Learning
