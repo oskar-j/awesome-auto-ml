@@ -44,6 +44,8 @@ A curated list of awesome AutoML frameworks.
 
 #### Machine Learning
 
+* [forester](https://github.com/ModelOriented/forester) - Full automation of the process of training tree-based models, wrapped into a single `train()` function.
+
 #### Deep learning
 
 * [R interface to Auto-Keras](https://github.com/jcrodriguez1989/autokeras) - Package: R interface to Auto-Keras. http://autokeras.com/
